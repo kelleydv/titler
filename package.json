@@ -1,0 +1,12 @@
+{
+  "name": "titler",
+  "version": "0.1.0",
+  "description": "Generate wallpapers from responsive static pages",
+  "scripts": {
+    "start": "node screenshot.js"
+  },
+  "dependencies": {
+    "nightmare": "^1.8.2",
+    "phantom": "^0.7.2"
+  }
+}
